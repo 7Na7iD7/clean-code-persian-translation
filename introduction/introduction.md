@@ -1,6 +1,6 @@
 <div dir="rtl" style="text-align: right;">
 
-![کیفیت کد: تعداد WTF در دقیقه](../../assets/images/3.png)
+![کیفیت کد: تعداد WTF در دقیقه](https://raw.githubusercontent.com/7Na7iD7/clean-code-persian-translation/main/assets/images/3.png)
 
 ## مقدمه کتاب 📘
 
